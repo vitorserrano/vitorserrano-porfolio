@@ -19,6 +19,10 @@ b {
   color: #05d361;
 }
 
+p {
+  color: #a8a8b3;
+}
+
 * {
   box-sizing: border-box;
 }
